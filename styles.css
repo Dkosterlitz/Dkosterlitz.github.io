@@ -6,15 +6,17 @@ body {
 }
 
 header {
-    background-color: #CCCCCC;
-    color: white;
+    background-color:#FFE4E1 ;
+    color: rgba(31, 30, 30, 0.921);
     padding: 20px;
     text-align: center;
 }
 
 .habilidades {
     padding: 20px;
+    background-color: white ;
 }
+
 
 table {
     width: 100%;
@@ -29,12 +31,13 @@ th, td {
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: white;
 }
 
 .resumen {
     padding: 20px;
     font-size: 20px;
+    background-color: white ;
     
 }
 
@@ -51,15 +54,15 @@ h1, h2 {
 
 #crear-boton button {
     padding: 10px 20px;
-    background-color: #333;
-    color: white;
+    background-color: #FFE4E1;
+    color: black;
     border: none;
     cursor: pointer;
     margin-left: 20px;
 }
 
 #crear-boton button:hover {
-    background-color: #555;
+    background-color: #FFE4E1;
 }
 
 .boton-dinamico {
